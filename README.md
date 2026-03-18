@@ -7,7 +7,7 @@ The focus is on identifying trust boundaries, analyzing system behavior, and doc
 
 - [Session Management Analysis](./Session-Management-Analysis.md)
 - [Authentication Flow Analysis](./Authentication-Flow-Analysis.md)
-- [API Behavior & Access Patterns](./API-Behavior-and-Access-Patterns.md)
+- [API Behavior & Access Patterns](./API-Behaviour-and-Access-Patterns.md)
 - [Business Logic Observations](./Business-Logic-Observation.md)
 
 ---
