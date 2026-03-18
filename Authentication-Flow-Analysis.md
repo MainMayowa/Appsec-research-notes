@@ -1,4 +1,4 @@
-OTP Request and Validation Behavior
+### OTP Request and Validation Behavior
 
 The application uses an OTP-based authentication mechanism for user login.
 
